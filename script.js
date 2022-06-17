@@ -34,4 +34,4 @@ const country = country => {
     countriesContainer.style.opacity = 1;
   });
 };
-country('usa');
+country('nigeria');
